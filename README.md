@@ -1,1 +1,1 @@
-# nextjs-course-files
+# Next.js course - files
